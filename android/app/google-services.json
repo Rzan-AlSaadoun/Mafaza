@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814045139421",
+    "project_id": "mafaza-d8604",
+    "storage_bucket": "mafaza-d8604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814045139421:android:1820529fb4aaba8cbd6634",
+        "android_client_info": {
+          "package_name": "android.intent.action.MAIN"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR2Ig_l58dIxgNOZJHQ6GeIU216UVzU7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

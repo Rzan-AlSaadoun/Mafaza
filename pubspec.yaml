@@ -1,0 +1,128 @@
+name: untitled
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  audioplayers: ^1.0.1
+  flutter_screenutil: ^5.7.0
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  image: ^3.0.1
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    #sound
+    - assets/sound/lvl1_sound(campFire).mp3
+    - assets/sound/lvl2_sound(waves).mp3
+    - assets/sound/lvl3_sound(rain).mp3
+
+    #level1
+    - assets/images/dots_instructions(lvl1).png
+    - assets/images/dah(lvl1).png
+    - assets/images/dates(lvl1).png
+    - assets/images/First_Level_BKG.png
+    - assets/images/fng(lvl1).png
+    - assets/images/go_BTN(LVL1).png
+    - assets/images/picsNword_instrucion(lvl1).png
+    - assets/images/PnW_d(lvl1).jpg
+    - assets/images/PnW_p(lvl1).jpg
+    - assets/images/return_BTN(LVL1).jpg
+    - assets/images/stroop_instrution(lvl1).png
+    - assets/images/dots_BKG(lvl1)1.png
+    - assets/images/candyPopup.png
+
+
+    #level2
+    - assets/images/aramco(lvl2).jpg
+    - assets/images/aramco2(lvl2).jpg
+    - assets/images/clapping-hands.png
+    - assets/images/dots_BKG(lvl2).png
+    - assets/images/dots_instruction(lvl2).jpg
+    - assets/images/hafara(lvl2).png
+    - assets/images/naser(lvl2).png
+    - assets/images/picsNword_instrucions(lvl2).jpg
+    - assets/images/sadaf(lvl2).png
+    - assets/images/safenh(lvl2).png
+    - assets/images/star(lvl2).png
+    - assets/images/stroop_instrutions(lvl2).png
+    - assets/images/timer_ended.png
+    - assets/images/Second_Level_BKG.jpg
+    - assets/images/return_BTN(lvl2).png
+    - assets/images/IMG_1737.jpg
+    - assets/images/oudpopup.png
+
+
+    #level3
+    - assets/images/dots_instruction(lvl3).jpg
+    - assets/images/go_BTN(lvl3).png
+    - assets/images/hll(lvl3).png
+    - assets/images/mnt(lvl3).png
+    - assets/images/pep(lvl3).png
+    - assets/images/picsNword_instruction(lvl3).jpg
+    - assets/images/plt(lvl3).png
+    - assets/images/PnW_c(lvl3).jpg
+    - assets/images/PnW_t(lvl3).jpg
+    - assets/images/return_BTN(lvl3).png
+    - assets/images/sdo(lvl3).png
+    - assets/images/stroop_instrution(lvl3).png
+    - assets/images/Third_Level_BKG.jpg
+    - assets/images/dots_BKG(lvl3).png
+    - assets/images/flwr(lvl3).png
+    - assets/images/tolOudPopup.png
+
+
+    #Quiz
+    - assets/images/InstructionQuiz.png
+    - assets/images/puzz.png
+    - assets/images/Question1.png
+    - assets/images/Question2.png
+
+    #main
+    - assets/images/mainBackground.png
+    - assets/images/StartButton.png
+    - assets/images/settingButton.png
+    - assets/images/rewardsButton.png
+    - assets/images/mapButton.png
+
+    #map
+    - assets/images/mapBackgroundwo.png
+    - assets/images/returnbackWithBackground.png
+    - assets/images/najdButton.png
+    - assets/images/southButton.png
+    - assets/images/najdButton.png
+    - assets/images/southBW.png
+    - assets/images/eastButton.png
+    - assets/images/eastBW.png
+
+    # rewards
+    - assets/images/RewardsBackground.png
+    - assets/images/returnbackWithBackground.png
+    - assets/images/candy.png
+    - assets/images/candyB.png
+    - assets/images/bakhor.png
+    - assets/images/bakhorB.png
+    - assets/images/oud.png
+    - assets/images/oudB.png
+
+    #setting
+    - assets/images/IMG_1737.jpg
+    - assets/images/returnbackWithBackground.png
+    - assets/images/settingBackground.png
